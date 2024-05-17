@@ -18,6 +18,9 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 ### 📊 Github Stats
-
-![Stats Overview](https://raw.githubusercontent.com/arbhapr/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/arbhapr/github-stats-transparent/output/generated/languages.svg)
+<a href="https://github.com/arbhapr/arbhapr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbhapr&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/arbhapr/arbhapr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arbhapr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
