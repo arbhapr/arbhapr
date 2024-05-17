@@ -5,4 +5,9 @@
 ![GitHub Followers](https://img.shields.io/github/followers/arbhapr?label=Follow&style=social)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
