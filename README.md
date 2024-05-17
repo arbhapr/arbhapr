@@ -16,4 +16,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+|--|--|
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbhapr&layout=compact"> | ![Arbha's github stats](https://github-readme-stats.vercel.app/api?username=arbhapr&show_icons=true&hide=[%22issues%22]) |
+|--|--|
