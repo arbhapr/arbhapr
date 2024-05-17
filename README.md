@@ -11,7 +11,11 @@ My name is **Arbha Pradana** and I'm a software developer from Indonesia.
 ## Stuffs
 <!--START_SECTION:waka-->
 
-```txt
+```php
+From: 15 May 2024 - To: 16 May 2024
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
