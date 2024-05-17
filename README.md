@@ -1,5 +1,6 @@
-<h2 align="center">👋 Hello! I'm Arbha.</h2>
-<h3 align="center">A software engineer from Indonesia</h3>
+<h1 align="center">Hello, folks! 👋</h2>
+
+My name is **Arbha Pradana** and I'm a software developer from Indonesia.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/arbhapr?label=Follow%20@arbhapr)](https://twitter.com/intent/follow?screen_name=arbhapr)
 [![Linkedin: Arbha Pradana](https://img.shields.io/badge/-Arbha%20Pradana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arbhapr/)](https://linkedin.com/in/arbhapr)
@@ -16,5 +17,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbhapr&layout=compact"> | ![Arbha's github stats](https://github-readme-stats.vercel.app/api?username=arbhapr&show_icons=true&hide=[%22issues%22]) |
-|--|--|
+### 📊 Github Stats
+
+![Stats Overview](https://raw.githubusercontent.com/arbhapr/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/arbhapr/github-stats-transparent/output/generated/languages.svg)
