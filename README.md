@@ -14,16 +14,3 @@
 <a href="https://github.com/arbhapr/arbhapr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arbhapr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arbha's GitHub Stats" />
 </a>
-<br><br>
-
-<!--START_SECTION:waka-->
-
-```php
-From: 15 May 2024 - To: 12 June 2024
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
