@@ -4,7 +4,7 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs every 1 hours
+    # runs every 1 month
     - cron: "0 0 1 * *"
 
 jobs:
